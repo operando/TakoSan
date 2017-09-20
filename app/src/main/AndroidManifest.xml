@@ -3,9 +3,8 @@
     package="com.os.operando.takosan">
 
     <application
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@mipmap/tako"
         android:label="TakoSan"
-        android:roundIcon="@mipmap/ic_launcher_round"
         android:theme="@style/android:Theme.Material.Light.NoActionBar.TranslucentDecor">
         <activity android:name=".MainActivity">
             <intent-filter>
